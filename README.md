@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 can deploy on any web server
 
 ## How to contribute
+this is how to contribute
+this is change from master branch
